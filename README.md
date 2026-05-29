@@ -1,6 +1,6 @@
 # Cryptan Escrow — Open Source Smart Contract
 
-This repository contains the on-chain escrow program that secures all wager rooms on [Cryptan](https://cryptan.gg) — a competitive Catan-style board game built on Solana.
+This repository contains the on-chain escrow program that secures all wager rooms on [Cryptan](https://cryptan.world) — a competitive Catan-style board game built on Solana.
 
 Every SOL and $CRYPTAN wager is locked in this program. **The server cannot steal, redirect, or withhold funds.** This code is published so players and investors can verify that claim themselves.
 
